@@ -1,5 +1,6 @@
 # MACky
-MACky - a mac address changer
+
+A mac address changer
 
 Change a MAC address of any non-virtual interface
 
@@ -45,4 +46,4 @@ If you'd like to contribute, file a pull request or github issue to discuss.
 
 TODO:
 
-- on execution with no flags, offer a menu of non-virtual interfaces and a MAC input
+- add menu of non-virtual interfaces and a MAC input on execution with no flags
